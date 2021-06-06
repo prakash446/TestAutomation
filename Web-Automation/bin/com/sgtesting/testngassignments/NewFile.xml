@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Assisgnment">
+	<test name="Testng Assignments">
+		<classes>
+			
+			<class name="com.sgtesting.testngassignments.CreateAndDeleteUser"></class>
+			<class name="com.sgtesting.testngassignments.CreateModifyDeleteUser"></class>
+			<class name="com.sgtesting.testngassignments.CreateAndDeleteCustomer"></class>
+			<class name="com.sgtesting.testngassignments.CreateModifyDeleteCustomer"></class>
+			<class name="com.sgtesting.testngassignments.CreateCustomerProjectDeleteProjectCustomer"></class>
+			<class name="com.sgtesting.testngassignments.CreateCustomerProjectModifyProjectDeleteProjectCustomer"></class>
+			<class name="com.sgtesting.testngassignments.CreateCustomerProjectTasksDeleteTasks"></class>
+			<class name="com.sgtesting.testngassignments.Create3Users"></class>
+			<class name="com.sgtesting.testngassignments.AdvancedAssignment2"></class>
+
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+  <test name="Testng asssignmens Scenarios">
+    <packages>
+         <package name="com.sgtesting.testngassignments"></package>
+    </packages>
+  </test>
+</suite>
