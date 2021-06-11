@@ -182,6 +182,7 @@ public class CreateCustomerProjectTasksDeleteTasks {
 		}
 	}
 	
+	
 	static void deleteProject()
 	{
 		try
@@ -199,6 +200,7 @@ public class CreateCustomerProjectTasksDeleteTasks {
 			e.printStackTrace();
 		}
 	}
+	
 	
 	static void deleteCustomer()
 	{
